@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Amadude
-- 👀 I’m interested in Software Development
+- 👋 Hi, My Name is Amadou.
+- 👀 Software Developer.
+Proficient in front-end languages and frameworks like HTML, CSS, JavaScript, Materialize CSS, React and back-end languages like Java.
 - 📫 How to reach me amadadiallo1@gmail.com/ adiallo3@stlcc.edu
 
 <!---
